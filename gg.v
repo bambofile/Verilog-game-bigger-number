@@ -1,4 +1,4 @@
-module penis;
+module game;
 reg [7:0] A =26;
 reg [7:0] B =17; #number
 reg [7:0] S =8; #number
